@@ -1,0 +1,22 @@
+{
+  "name": "node-java",
+  "version": "1.0.1",
+  "description": "nodejs zk hessian java",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "alex",
+  "license": "ISC",
+  "dependencies": {
+    "hessian-proxy": "~0.0.4",
+    "node-zookeeper-client": "~0.2.1"
+  },
+  "devDependencies": {},
+  "keywords": [
+    "nodejs",
+    "zk",
+    "hessian",
+    "java"
+  ]
+}
